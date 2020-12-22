@@ -32,7 +32,11 @@ public class IncredibleCalculator {
             	System.out.println("Aquí va la funcionalidad de multiplicación");
             	// Multiplicar. Debes leer dos números enteros de entrada e imprimir su producto.
                     break;
-            case 4: // Multiplicar. Debes leer dos números enteros de entrada e imprimir su división entera.
+            case 4:
+            	
+            	System.out.println("Aquí va la funcionalidad de la división entera");
+            	
+            	// Multiplicar. Debes leer dos números enteros de entrada e imprimir su división entera.
                     break;
             case 5: // Multiplicar. Debes leer dos números enteros de entrada e imprimir su división con decimales.
                     break;
