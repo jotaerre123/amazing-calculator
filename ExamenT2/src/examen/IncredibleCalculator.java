@@ -38,7 +38,10 @@ public class IncredibleCalculator {
             	
             	// Multiplicar. Debes leer dos números enteros de entrada e imprimir su división entera.
                     break;
-            case 5: // Multiplicar. Debes leer dos números enteros de entrada e imprimir su división con decimales.
+            case 5: 
+            	System.out.println("Añadida funcionalidad de división con decimales");
+            	
+            	// Multiplicar. Debes leer dos números enteros de entrada e imprimir su división con decimales.
                     break;
 
         }
